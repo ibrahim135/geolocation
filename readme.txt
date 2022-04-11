@@ -1,0 +1,1 @@
+this file navigates location of user then returns to server. further the location is then responded. overall server request location then responds with the same to client
